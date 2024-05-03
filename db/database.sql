@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT petapp;
+
+CREATE TABLE Users (
+    UsuarioID INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    Apellido VARCHAR(255) NOT NULL,
+    Cumpleaños DATE,
+    Email VARCHAR(255) UNIQUE NOT NULL,
+    Locacion VARCHAR(255)
+);
