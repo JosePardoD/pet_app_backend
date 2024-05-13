@@ -2,6 +2,7 @@ import { pool } from "../db.js";
 
 export const getUsuarios = async (req,res)=>{
     try {
+        console.log()
         const [rows] = await pool.query('SELECT * FROM Usuarios')
         res.json(rows)       
     } catch (error) {
@@ -24,8 +25,8 @@ export const getUsuario = async (req,res)=>{
 
 export const createtUsuarios = async (req,res)=>{
     try {
-        const {Nombre, Apellido, Email} = req.body
-        const [rows] = await pool.query('INSERT INTO Usuarios (Nombre,Apellido,Email) VALUES (?,?,?)',[Nombre,Apellido,Email])
+        const {Nombre, Apellido, Cumpleanos, Email, Contrasena, Latitud, Longitud} = req.body
+        const [rows] = await pool.query('INSERT INTO Usuarios (Nombre, Apellido, Cumpleanos, Email, Contrasena, Latitud, Longitud) VALUES (?,?,?,?,?,?,?)',[Nombre, Apellido, Cumpleanos, Email, Contrasena, Latitud, Longitud])
         console.log(rows)
         res.send({rows})        
     } catch (error) {
@@ -39,7 +40,7 @@ export const updateUsuarios = async (req,res)=> {
         const {id} = req.params
         const {Nombre, Apellido, Email} = req.body
 
-        const [result] = await pool.query('UPDATE Usuarios SET Nombre=IFNULL(?,Nombre),Apellido=IFNULL(?,Apellido),Email=IFNULL(?,Email) WHERE UsuarioID=?', [Nombre,Apellido,Email,id])
+        const [result] = await pool.query('UPDATE Usuarios SET Nombre=IFNULL(?,Nombre),Apellido=IFNULL(?,Apellido),Cumpleanos=IFNULL(?,Cumpleanos),Email=IFNULL(?,Email),Contrasena=IFNULL(?,Contrasena),Latitud=IFNULL(?,Latitud),Longitud=IFNULL(?,Longitud) WHERE UsuarioID=?',[Nombre, Apellido, Cumpleanos, Email, Contrasena, Latitud, Longitud])
         if(result.affectedRows==0) return res.status(404).json({message: 'No encontro nada'})
 
         const [rows] = await pool.query('SELECT * FROM Usuarios WHERE UsuarioID=?',[req.params.id] )
