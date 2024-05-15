@@ -5,6 +5,7 @@ import indexRouter from "./routes/index.routes.js";
 
 import imagesRouter from "./routes/images.routes.js";
 import mascotasRouter from "./routes/mascotas.routes.js";
+import luguaresRouter from "./routes/lugares.routes.js";
 
 const app = express();
 app.use(
@@ -18,5 +19,6 @@ app.use('/api',usuariosRouter)
 app.use('/api',indexRouter)
 app.use('/api',imagesRouter)
 app.use('/api',mascotasRouter)
+app.use('/api',luguaresRouter)
 
 app.listen(3000);

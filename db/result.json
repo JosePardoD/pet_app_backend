@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Clínica Veterinaria Mascotas Club",
+        "Address": "Cra. 73b Bis #6 22 sur, Kennedy, Bogotá, Cundinamarca",
+        "Phone Number": "312 3275656",
+        "Latitude": 4.6223707,
+        "Longitude": -74.143935,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "Clinica Veterinaria Happy Pet Bogotá",
+        "Address": "Cl. 42a Sur #80d - 03, Bogotá",
+        "Phone Number": "315 4866362",
+        "Latitude": 4.6231268,
+        "Longitude": -74.1639125,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "Clínica Veterinaria Mascotas Club",
+        "Address": "Cra. 73b Bis #6 22 sur, Kennedy, Bogotá, Cundinamarca",
+        "Phone Number": "312 3275656",
+        "Latitude": 4.6223707,
+        "Longitude": -74.143935,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "WORLD PET'S - Clínica Veterinaria (24 horas)",
+        "Address": "Cl. 40 Sur #73a - 48, Bogotá",
+        "Phone Number": "313 8883986",
+        "Latitude": 4.614874,
+        "Longitude": -74.1512681,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "Clínica Veterinaria Abanimal",
+        "Address": "Carrera 69, Cl. 24 Sur #17, Bogotá",
+        "Phone Number": "14144930",
+        "Latitude": 4.6152918,
+        "Longitude": -74.1286923,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "VETWORLD CLINICA VETERINARIA",
+        "Address": "Cra. 72p Bis #43-28 SUR, Bogotá",
+        "Phone Number": "302 8622515",
+        "Latitude": 4.6057292,
+        "Longitude": -74.1540699,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "CENTRO VETERINARIO VETER SALUD",
+        "Address": "Ac. 3 #71 D 35, Kennedy, Bogotá, Cundinamarca",
+        "Phone Number": "322 8227460",
+        "Latitude": 4.6255281,
+        "Longitude": -74.1371565,
+        "Category": "Veterinarias"
+    },
+    {
+        "Name": "Zoovet",
+        "Address": "Ac. 3 #38b - 35, Bogotá",
+        "Phone Number": "15603040",
+        "Latitude": 4.6103238,
+        "Longitude": -74.109692,
+        "Category": "Veterinarias"
+    }
+]
