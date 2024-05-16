@@ -1,66 +1,506 @@
 [
     {
-        "Name": "Clínica Veterinaria Mascotas Club",
-        "Address": "Cra. 73b Bis #6 22 sur, Kennedy, Bogotá, Cundinamarca",
-        "Phone Number": "312 3275656",
-        "Latitude": 4.6223707,
-        "Longitude": -74.143935,
-        "Category": "Veterinarias"
+        "Name": "Veterinaria Mascotas Traviesas",
+        "Address": "Diagonal 9, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6185315,
+        "Longitude": -74.1110691,
+        "Category": "Refugios"
     },
     {
-        "Name": "Clinica Veterinaria Happy Pet Bogotá",
-        "Address": "Cl. 42a Sur #80d - 03, Bogotá",
-        "Phone Number": "315 4866362",
-        "Latitude": 4.6231268,
-        "Longitude": -74.1639125,
-        "Category": "Veterinarias"
+        "Name": "Fundación corazón peludito",
+        "Address": "Cl. 63c #17-29 Casa, Barrios Unidos, Bogotá, Cundinamarca",
+        "Phone Number": "311 2378570",
+        "Latitude": 4.6526622,
+        "Longitude": -74.0674461,
+        "Category": "Refugios"
     },
     {
-        "Name": "Clínica Veterinaria Mascotas Club",
-        "Address": "Cra. 73b Bis #6 22 sur, Kennedy, Bogotá, Cundinamarca",
-        "Phone Number": "312 3275656",
-        "Latitude": 4.6223707,
-        "Longitude": -74.143935,
-        "Category": "Veterinarias"
+        "Name": "El Orfagato",
+        "Address": "Cra. 31 #25a 21, Bogotá",
+        "Phone Number": "300 4124303",
+        "Latitude": 4.6262718,
+        "Longitude": -74.0831402,
+        "Category": "Refugios"
     },
     {
-        "Name": "WORLD PET'S - Clínica Veterinaria (24 horas)",
-        "Address": "Cl. 40 Sur #73a - 48, Bogotá",
-        "Phone Number": "313 8883986",
-        "Latitude": 4.614874,
-        "Longitude": -74.1512681,
-        "Category": "Veterinarias"
+        "Name": "Milagrinos",
+        "Address": "Suba, Bogotá",
+        "Phone Number": "312 3069460",
+        "Latitude": 4.7814287,
+        "Longitude": -74.1052889,
+        "Category": "Refugios"
     },
     {
-        "Name": "Clínica Veterinaria Abanimal",
-        "Address": "Carrera 69, Cl. 24 Sur #17, Bogotá",
-        "Phone Number": "14144930",
-        "Latitude": 4.6152918,
-        "Longitude": -74.1286923,
-        "Category": "Veterinarias"
+        "Name": "Unidad de Cuidado Animal-Instituto distrital de proteccion y bienestar animal",
+        "Address": "Cra. 106a #67-02, Engativá, Bogotá, Cundinamarca",
+        "Phone Number": "16477117",
+        "Latitude": 4.7013858,
+        "Longitude": -74.1265289,
+        "Category": "Refugios"
     },
     {
-        "Name": "VETWORLD CLINICA VETERINARIA",
-        "Address": "Cra. 72p Bis #43-28 SUR, Bogotá",
-        "Phone Number": "302 8622515",
-        "Latitude": 4.6057292,
-        "Longitude": -74.1540699,
-        "Category": "Veterinarias"
+        "Name": "Huellitas",
+        "Address": "17, Caracas #55, Bogotá",
+        "Phone Number": "311 3500168",
+        "Latitude": 4.6428313,
+        "Longitude": -74.0661258,
+        "Category": "Refugios"
     },
     {
-        "Name": "CENTRO VETERINARIO VETER SALUD",
-        "Address": "Ac. 3 #71 D 35, Kennedy, Bogotá, Cundinamarca",
-        "Phone Number": "322 8227460",
-        "Latitude": 4.6255281,
-        "Longitude": -74.1371565,
-        "Category": "Veterinarias"
+        "Name": "El Gatio Adopciones",
+        "Address": "Cra. 17a #137-46, Bogotá",
+        "Phone Number": "315 5480076",
+        "Latitude": 4.7218149,
+        "Longitude": -74.0442894,
+        "Category": "Refugios"
     },
     {
-        "Name": "Zoovet",
-        "Address": "Ac. 3 #38b - 35, Bogotá",
-        "Phone Number": "15603040",
-        "Latitude": 4.6103238,
-        "Longitude": -74.109692,
-        "Category": "Veterinarias"
+        "Name": "Fundacion La Huella Roja",
+        "Address": "",
+        "Phone Number": "314 2930088",
+        "Latitude": 5.9219138,
+        "Longitude": -74.3390061,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Pacto Animal",
+        "Address": "Unnamed Road, Bogotá",
+        "Phone Number": "300 6480190",
+        "Latitude": 4.459542,
+        "Longitude": -74.154721,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Adopción de gatos...",
+        "Address": "Bosa, Bogotá",
+        "Phone Number": "320 3702827",
+        "Latitude": 4.6376818,
+        "Longitude": -74.1886295,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Hogar De Paso Perro Amor Sede 1",
+        "Address": "Parcela 50, Globo 1, Vereda Parcelas, Cota, Cundinamarca",
+        "Phone Number": "301 7059191",
+        "Latitude": 4.7758963,
+        "Longitude": -74.1289441,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Instituto Distrital de Protección y Bienestar Animal",
+        "Address": "Cra. 10 #26-51, Bogotá, Colombia, Torre Sur, Cra. 10, Piso 8, Bogotá",
+        "Phone Number": "305 3985853",
+        "Latitude": 4.6136751,
+        "Longitude": -74.0706558,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Hogar De Paso Perro Amor",
+        "Address": "Parcelas de Globo 2, Parcela 19, Funza, Cota, Cundinamarca",
+        "Phone Number": "301 7059191",
+        "Latitude": 4.7614687,
+        "Longitude": -74.1291931,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Hogar de paso Julieth Animasu Animalistas Soacha",
+        "Address": "",
+        "Phone Number": "302 4662680",
+        "Latitude": 4.5754475,
+        "Longitude": -74.2136432,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "peluditos con futuro",
+        "Address": "Calle 80A #116 B 82 apto 205, Bogotá",
+        "Phone Number": "316 6295019",
+        "Latitude": 4.901825,
+        "Longitude": -74.2446144,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Tapitas X Patitas Colombia",
+        "Address": "Transversal 54#114-51, Bogotá, Cundinamarca",
+        "Phone Number": "313 3902049",
+        "Latitude": 4.699175,
+        "Longitude": -74.0650916,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Adopción de Perros",
+        "Address": "a 169-98, Cra. 12 #169-20, Bogotá",
+        "Phone Number": "321 9874751",
+        "Latitude": 4.7481709,
+        "Longitude": -74.0331477,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Casa Animal Shalom",
+        "Address": "Cra. 106, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6789208,
+        "Longitude": -74.1463954,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Hogar de paso Rescate miau,s",
+        "Address": "Cra. 8a #53a Sur-23, Bogotá",
+        "Phone Number": "320 2300147",
+        "Latitude": 4.5560605,
+        "Longitude": -74.1240498,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Huellas Huerfanas",
+        "Address": "",
+        "Phone Number": "312 3391910",
+        "Latitude": 5.9219138,
+        "Longitude": -74.3390061,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Refugio Legado de Toña",
+        "Address": "Cl. 1 #0-33, El Diamante, Mosquera, Cundinamarca",
+        "Phone Number": "312 5395216",
+        "Latitude": 4.6922988,
+        "Longitude": -74.1968425,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Paseos caninos, Runner Dog.",
+        "Address": "Cl. 145, Bogotá",
+        "Phone Number": "319 2098899",
+        "Latitude": 4.7371972,
+        "Longitude": -74.0850023,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Hogar De Paso Perro Amor Sede 1",
+        "Address": "Parcela 50, Globo 1, Vereda Parcelas, Cota, Cundinamarca",
+        "Phone Number": "301 7059191",
+        "Latitude": 4.7758963,
+        "Longitude": -74.1289441,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Peludos Por Una Vida Digna",
+        "Address": "Usme, Bogotá",
+        "Phone Number": "300 8357381",
+        "Latitude": 4.4954934,
+        "Longitude": -74.0826656,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Instituto Distrital de Protección y Bienestar Animal",
+        "Address": "Cra. 10 #26-51, Bogotá, Colombia, Torre Sur, Cra. 10, Piso 8, Bogotá",
+        "Phone Number": "305 3985853",
+        "Latitude": 4.6136751,
+        "Longitude": -74.0706558,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Granja De Mascotas",
+        "Address": "Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6384742,
+        "Longitude": -74.1892846,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Animalove",
+        "Address": "Cl. 149 #40, Suba, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.731931,
+        "Longitude": -74.0536338,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "pornuestrosamigosde4patas",
+        "Address": "",
+        "Phone Number": "311 7963116",
+        "Latitude": 5.9219138,
+        "Longitude": -74.3390061,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "El Gatio Adopciones",
+        "Address": "Cra. 17a #137-46, Bogotá",
+        "Phone Number": "315 5480076",
+        "Latitude": 4.7218149,
+        "Longitude": -74.0442894,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion La Huella Roja",
+        "Address": "",
+        "Phone Number": "314 2930088",
+        "Latitude": 5.9219138,
+        "Longitude": -74.3390061,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Asociación Defensora de Animales",
+        "Address": "Ak. 19 #2967, Bogotá",
+        "Phone Number": "12325916",
+        "Latitude": 4.6198454,
+        "Longitude": -74.0745144,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Second chances",
+        "Address": "Cl. 174 #55-37, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.7563449,
+        "Longitude": -74.0548634,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "CFFS Fundación",
+        "Address": "Soacha, Cundinamarca",
+        "Phone Number": "",
+        "Latitude": 4.5827227,
+        "Longitude": -74.2117465,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "peluditos con futuro",
+        "Address": "Calle 80A #116 B 82 apto 205, Bogotá",
+        "Phone Number": "316 6295019",
+        "Latitude": 4.901825,
+        "Longitude": -74.2446144,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Perros & Gatos",
+        "Address": "Cra. 81 #7656, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6981558,
+        "Longitude": -74.0987272,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Huellas Huerfanas",
+        "Address": "",
+        "Phone Number": "312 3391910",
+        "Latitude": 5.9219138,
+        "Longitude": -74.3390061,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Adopción de Perros",
+        "Address": "a 169-98, Cra. 12 #169-20, Bogotá",
+        "Phone Number": "321 9874751",
+        "Latitude": 4.7481709,
+        "Longitude": -74.0331477,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Adpocion De Perros",
+        "Address": "Usaquén, Bogotá",
+        "Phone Number": "312 2591668",
+        "Latitude": 4.7562142,
+        "Longitude": -74.0271302,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Hogar de Paso Los Martires",
+        "Address": "Cra. 18b #23 A 15, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6161367,
+        "Longitude": -74.0772372,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "ANIMALUNOS",
+        "Address": "Av. Cra 19 #103-59, Bogotá",
+        "Phone Number": "16167206",
+        "Latitude": 4.6897191,
+        "Longitude": -74.0516093,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Animalistas sin fronteras",
+        "Address": "10001, Bogotá",
+        "Phone Number": "319 2573418",
+        "Latitude": 4.7123599,
+        "Longitude": -74.081013,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Protección Animal",
+        "Address": "Calle 116 # 70g – 82, Bogotá",
+        "Phone Number": "16477117",
+        "Latitude": 4.6991251,
+        "Longitude": -74.076434,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Tapitas X Patitas Colombia",
+        "Address": "Transversal 54#114-51, Bogotá, Cundinamarca",
+        "Phone Number": "313 3902049",
+        "Latitude": 4.699175,
+        "Longitude": -74.0650916,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Refugio Canino 07",
+        "Address": "",
+        "Phone Number": "302 2411522",
+        "Latitude": 4.6482976,
+        "Longitude": -74.107807,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Chalet Club Velásquez Cocker",
+        "Address": "Km 5 via la Calera San Isidro 2, La Calera, Cundinamarca",
+        "Phone Number": "314 4661413",
+        "Latitude": 4.6774578,
+        "Longitude": -74.0169481,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "SCCGC",
+        "Address": "",
+        "Phone Number": "311 5188547",
+        "Latitude": 4.6482976,
+        "Longitude": -74.107807,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Centro De Rescate Animal Sinag",
+        "Address": "Cra. 71d #121-22, Suba, Bogotá, Cundinamarca",
+        "Phone Number": "312 3912928",
+        "Latitude": 4.7069041,
+        "Longitude": -74.0783861,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Knchocitos Animalitos Y Mascotas",
+        "Address": "Cl. 22g, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6897121,
+        "Longitude": -74.1510647,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Guardería y Hotel Canino - El Refugio Mascotas",
+        "Address": "Finca La Colina, Via Frailejonal, La Calera, Cundinamarca",
+        "Phone Number": "313 3413476",
+        "Latitude": 4.6710874,
+        "Longitude": -73.9637863,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "CASA ECOLOGICA DE LOS ANIMALES",
+        "Address": "Ceuta, Funza, Cundinamarca",
+        "Phone Number": "",
+        "Latitude": 4.7306908,
+        "Longitude": -74.1557793,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Nuestro Hogar - niños - donaciones - educación - alimentos - peludos",
+        "Address": "Carrera 14B Este #74B - 67 SUR, Usme, Bogotá, Cundinamarca",
+        "Phone Number": "305 8845472",
+        "Latitude": 4.5161469,
+        "Longitude": -74.0901201,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Centro de fauna",
+        "Address": "Cl 64, #12810, Bogotá",
+        "Phone Number": "(601) 3778899",
+        "Latitude": 4.7191575,
+        "Longitude": -74.1432219,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Furry Little Ones With Future Peludutos Con Futuro",
+        "Address": "Unnamed Rd,, Granada, Cundinamarca",
+        "Phone Number": "+1 954-536-5320",
+        "Latitude": 4.5330135,
+        "Longitude": -74.2982478,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundación Yo Soy tu amigo fiel",
+        "Address": "GMMX+4MV Granada, Cundinamarca Via vereda carrizal Granada, Sibaté, Granada, Cundinamarca",
+        "Phone Number": "311 8599399",
+        "Latitude": 4.5328125,
+        "Longitude": -74.3008125,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Granja De Mascotas",
+        "Address": "Cl. 138a #113 29, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.7432766,
+        "Longitude": -74.1045696,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "FunHuellas Positivas",
+        "Address": "La Loma, La Calera, Cundinamarca",
+        "Phone Number": "305 8339350",
+        "Latitude": 4.6943012,
+        "Longitude": -73.9203582,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Funeraria La Fe Mascotas",
+        "Address": "Cra. 11 #69-37, Bogotá",
+        "Phone Number": "13450188",
+        "Latitude": 4.6545518,
+        "Longitude": -74.0608099,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Mascotas & mas Cosas",
+        "Address": "b b 56, Cl. 23 #118, Refugio, La Guajira",
+        "Phone Number": "312 3221384",
+        "Latitude": 4.69176,
+        "Longitude": -74.1487454,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion San Roque",
+        "Address": "Vía Destapada Tenjo - La Cuesta, Madrid, Cundinamarca",
+        "Phone Number": "320 8033217",
+        "Latitude": 4.8568036,
+        "Longitude": -74.184782,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Vida animal Soacha",
+        "Address": "Cra11b, Cl. 17 Sur #30, Soacha, Cundinamarca",
+        "Phone Number": "312 5732600",
+        "Latitude": 4.5617921,
+        "Longitude": -74.2362774,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion El Gatio",
+        "Address": "Cra. 17a # 137-46, Bogotá",
+        "Phone Number": "315 5480076",
+        "Latitude": 4.721817,
+        "Longitude": -74.0442125,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Zoomascotas Veraguas",
+        "Address": "Cra. 34 #3 27, Puente Aranda, Bogotá, Cundinamarca",
+        "Phone Number": "12776717",
+        "Latitude": 4.6067058,
+        "Longitude": -74.1049535,
+        "Category": "Refugios"
+    },
+    {
+        "Name": "Fundacion Colitas Felices",
+        "Address": "Silvania, Cundinamarca",
+        "Phone Number": "305 7951134",
+        "Latitude": 4.4630707,
+        "Longitude": -74.3871577,
+        "Category": "Refugios"
     }
 ]

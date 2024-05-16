@@ -20,6 +20,19 @@ export const getMascota = async (req, res) => {
     }
 };
 
+export const getMascotasForUser = async (req, res) => {
+    try {
+        const [rows] = await pool.query('SELECT * FROM Mascotas WHERE UsuarioID = ?', [req.params.id]);
+        if (rows.length <= 0) {
+            return res.status(404).json({ message: 'No se encontraron mascotas para el usuario especificado' });
+        }
+        res.json(rows);
+    } catch (error) {
+        return res.status(500).json('Error al recuperar las mascotas');
+    }
+};
+
+
 export const createMascota = async (req, res) => {
     try {
         const { UsuarioID, Nombre, Especie, Raza, Genero, ImagenURL } = req.body;
@@ -55,3 +68,14 @@ export const deleteMascota = async (req, res) => {
         return res.status(500).json('Algo está mal');
     }
 };
+
+
+
+
+
+
+
+
+//--------------------------------- get with others tables
+
+

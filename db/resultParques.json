@@ -1,0 +1,322 @@
+[
+    {
+        "Name": "Parque El Sol Mandalay",
+        "Address": "Cl. 5 #73B-41, Bogotá",
+        "Phone Number": "",
+        "Latitude": "",
+        "Longitude": "",
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque público Galan Gorgonzola",
+        "Address": "Dg. 2 Sur #58-11, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6180004,
+        "Longitude": -74.1238477,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque del amor",
+        "Address": "Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6280828,
+        "Longitude": -74.1420393,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Luis Carlos Galán",
+        "Address": "Cra. 78 #36A-12, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6216248,
+        "Longitude": -74.1502427,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Ferrocarril",
+        "Address": "Cl. 20 Sur #92C- 38, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.610167,
+        "Longitude": -74.1249379,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parques Kennedy",
+        "Address": "# 14 a 42b, Cra. 78, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6134581,
+        "Longitude": -74.1598589,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Zonal Milenta Tejar San Eusebio",
+        "Address": "Cra. 52b #17-09, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6092,
+        "Longitude": -74.1237669,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Torremolinos II Sector",
+        "Address": "Cl. 18 Sur #51b, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6069687,
+        "Longitude": -74.1212399,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Villa del Río",
+        "Address": "Cl. 44 Sur #72l 55, Bogotá",
+        "Phone Number": "01-800-0919917",
+        "Latitude": 4.6039277,
+        "Longitude": -74.1582653,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Público El Girasol",
+        "Address": "Cra. 41b #2d1, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6135043,
+        "Longitude": -74.1146644,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Revolución",
+        "Address": "Unnamed Road, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6225611,
+        "Longitude": -74.1575102,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque CARVAJAL",
+        "Address": "Esquina Carrera 70, Cl. 36 Sur, Bogotá",
+        "Phone Number": "319 2792721",
+        "Latitude": 4.6136092,
+        "Longitude": -74.1391485,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Ponderosa",
+        "Address": "Cl. 1b #52-87, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6111452,
+        "Longitude": -74.1188985,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Timiza",
+        "Address": "Cl. 40h Sur #72r, Bogotá",
+        "Phone Number": "310 2998075",
+        "Latitude": 4.6092619,
+        "Longitude": -74.1523814,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Condados De Castilla",
+        "Address": "Ak. 80, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6385092,
+        "Longitude": -74.1443652,
+        "Category": "Parques"
+    },
+    {
+        "Name": "PARQUE SAN ANDRES",
+        "Address": "Sur, Cra. 72b, Kennedy, Bogotá",
+        "Phone Number": "15631225",
+        "Latitude": 4.6023777,
+        "Longitude": -74.1447269,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque las dos avenidas",
+        "Address": "Cra. 72b #7B-15, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6349285,
+        "Longitude": -74.1383268,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Villa Claudia",
+        "Address": "Cra. 69 Bis A, Kennedy, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6164618,
+        "Longitude": -74.1287956,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Público Urbanizacion el Parque",
+        "Address": "Cl. 45 Sur #72kbis, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6041418,
+        "Longitude": -74.1517754,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Champions",
+        "Address": "Cra. 43 #5, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6184153,
+        "Longitude": -74.1095363,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Público Bosque de los Comuneros",
+        "Address": "Dg. 5a #37B-60, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6106706,
+        "Longitude": -74.1070056,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Los Angeles",
+        "Address": "Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.63482,
+        "Longitude": -74.1435247,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque María Paz",
+        "Address": "Cra. 82 #2 a 60, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6366153,
+        "Longitude": -74.1579185,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Público La Alquería",
+        "Address": "Cra. 52c #43 sur, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.5963115,
+        "Longitude": -74.1352819,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque",
+        "Address": "Cra. 29, Los Mártires, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.5972489,
+        "Longitude": -74.1041349,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Público Ciudad Alsacia",
+        "Address": "esquina con Carrera 71D, Cl. 12c, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6426249,
+        "Longitude": -74.1274422,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque FLORALIA I SECTOR",
+        "Address": "Cl. 30 Sur #68C Con Calle 30S, Antonio Nariño, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6087047,
+        "Longitude": -74.1315349,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Luisita",
+        "Address": "Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6341189,
+        "Longitude": -74.0977846,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque de la Independencia - Bicentenario",
+        "Address": "Cl. 24 #6a-1, Bogotá",
+        "Phone Number": "01-800-0127400",
+        "Latitude": 4.6118375,
+        "Longitude": -74.0684702,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Nueva Alsacia O Ciudad Alsacia",
+        "Address": "Cl. 12a #S/N, Kennedy, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6414374,
+        "Longitude": -74.1286281,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque El Triangulo",
+        "Address": "Cra. 73b Bis #257 a 99, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6253332,
+        "Longitude": -74.1431922,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Zonal Ciudad Montes",
+        "Address": "Cl. 10 Sur #39-29, Puente Aranda, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.603008,
+        "Longitude": -74.1157747,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque De Los Abuelos",
+        "Address": "a 72d-42, Cl. 56d Sur #72d-2, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6016825,
+        "Longitude": -74.1665531,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Esmeralda",
+        "Address": "Parque La Esmeralda, Teusaquillo, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6461426,
+        "Longitude": -74.0898589,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque Kennedy Oriental Super manzana 5",
+        "Address": "Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6224961,
+        "Longitude": -74.1489816,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque",
+        "Address": "esquina con Calle 38CS, Cra. 88, Kennedy, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6374011,
+        "Longitude": -74.1667572,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque José Joaquín Vargas",
+        "Address": "Cra. 54 #22b27, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.6408465,
+        "Longitude": -74.1004658,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque de la araña",
+        "Address": "a 51-82,, Dg. 52a Sur #51-2, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.58979,
+        "Longitude": -74.1406979,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Fragüita",
+        "Address": "Cl. 9 Sur #25-57 a 25-27, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.5936304,
+        "Longitude": -74.1011196,
+        "Category": "Parques"
+    },
+    {
+        "Name": "Parque La Fragüita",
+        "Address": "Cl. 9 Sur #25-57 a 25-27, Bogotá",
+        "Phone Number": "",
+        "Latitude": 4.5936304,
+        "Longitude": -74.1011196,
+        "Category": "Parques"
+    }
+]
